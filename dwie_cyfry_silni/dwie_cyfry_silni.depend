@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569362044 source:e:\programowanie\c++ projekty\dwie_cyfry_silni\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

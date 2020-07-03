@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int c,k,w,t;
+
+    cin>>t;
+    for (int i=0;i<t;i++)
+    {
+       cin>>c>>k>>w;
+       c=c*w;
+
+       if(c<=k)
+       {
+           cout<<"yes"<<endl;
+       }
+       else
+       {
+           cout<<"no"<<endl;
+       }
+
+    }
+
+    return 0;
+}

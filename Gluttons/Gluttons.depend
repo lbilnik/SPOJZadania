@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568981898 source:c:\users\admin\documents\c++\gluttons\main.cpp
+	<iostream>
+	<math.h>
+	<iostream>
+	<math.h>
+
+1569447424 source:e:\programowanie\c++ projekty\gluttons\main.cpp
+	<iostream>
+	<cmath>
+	<iostream>
+
